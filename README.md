@@ -14,6 +14,7 @@ This repository stores C-based firmware running in ESP32 for the VAG project. Th
 - Connect VAG desktop and VAG ESP32 using WI-FI.
 
 ## Product Overview
+![Image](/images/vagesp32.png)
 ![Image](/images/vag.png)
 
 ## License
