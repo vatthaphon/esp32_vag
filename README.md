@@ -1,7 +1,7 @@
 # VAG ESP32
 
 ## Description
-This repository stores C-based firmware running in ESP32 for the VAG project. The firware gets samples from ADS1256 at 10K Hz that are transmitted to PC through WI-FI.
+This repository stores C-based firmware running in ESP32 for the VAG project. The firmware gets samples from ADS1256 at 10K Hz that are transmitted to PC through WI-FI.
 
 ## Installation
 - Hardware requirements: ESP32-WROOM and ADS1256.
